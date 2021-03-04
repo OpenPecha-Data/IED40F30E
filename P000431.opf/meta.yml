@@ -1,15 +1,16 @@
-id: opecha:P000431
+id: P000431
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ1547
   title: ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་རྣམ་ཐར།
-  volume:
+  author: ''
+  volumes:
     3bfa7dd8b9d0456eb19750d1ee448377:
       image_group_id: I1PD108299
       title: Volume 1 of lo tsA ba rin chen bzang po'i rnam thar/
       volume_number: 1
       total_pages: 32
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་རྣམ་ཐར།
   author: ''
