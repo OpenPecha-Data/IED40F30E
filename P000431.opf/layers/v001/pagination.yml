@@ -3,212 +3,182 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   66d3f70e915847d98ffeb5c8d0fc9f34:
-    page_index: 1a
-    page_info: null
-    reference: I1PD1082990001
+    imgnum: 1
+    reference: I1PD1082990001.tif
     span:
       start: 0
       end: 583
   ac806e0dd7424902a94836fb560e5029:
-    page_index: 2b
-    page_info: null
-    reference: I1PD1082990004
+    imgnum: 4
+    reference: I1PD1082990004.jpg
     span:
       start: 588
       end: 1206
   1442907a73b34e0b8ff4f4d92445adff:
-    page_index: 3a
-    page_info: null
-    reference: I1PD1082990005
+    imgnum: 5
+    reference: I1PD1082990005.jpg
     span:
       start: 1211
       end: 1865
   af6dd0bd632c4a1985c9fe9301e68d98:
-    page_index: 3b
-    page_info: null
-    reference: I1PD1082990006
+    imgnum: 6
+    reference: I1PD1082990006.jpg
     span:
       start: 1870
       end: 2518
   e19c86be76ef4f26b5547faf220b5ec6:
-    page_index: 4a
-    page_info: null
-    reference: I1PD1082990007
+    imgnum: 7
+    reference: I1PD1082990007.jpg
     span:
       start: 2523
       end: 3192
   dc1c705f1935444ba6645417c332053e:
-    page_index: 4b
-    page_info: null
-    reference: I1PD1082990008
+    imgnum: 8
+    reference: I1PD1082990008.jpg
     span:
       start: 3197
       end: 3877
   cde73a1270a047bf8cec33cb43b76ebb:
-    page_index: 5a
-    page_info: null
-    reference: I1PD1082990009
+    imgnum: 9
+    reference: I1PD1082990009.jpg
     span:
       start: 3882
       end: 4563
   c6fd71e19f8b42d6a3a44fc1eba872b1:
-    page_index: 5b
-    page_info: null
-    reference: I1PD1082990010
+    imgnum: 10
+    reference: I1PD1082990010.jpg
     span:
       start: 4568
       end: 5229
   a7968d70898246f3be1467dd0f3d82d7:
-    page_index: 6a
-    page_info: null
-    reference: I1PD1082990011
+    imgnum: 11
+    reference: I1PD1082990011.jpg
     span:
       start: 5234
       end: 5856
   54467e029c3a48db9aa384e10e0ab643:
-    page_index: 6b
-    page_info: null
-    reference: I1PD1082990012
+    imgnum: 12
+    reference: I1PD1082990012.jpg
     span:
       start: 5861
       end: 6499
   7c51ee199d7b4ab1ac171efb612878e6:
-    page_index: 7a
-    page_info: null
-    reference: I1PD1082990013
+    imgnum: 13
+    reference: I1PD1082990013.jpg
     span:
       start: 6504
       end: 7143
   c3bf8f0116ef429d81c1b1e8f2bd8acf:
-    page_index: 7b
-    page_info: null
-    reference: I1PD1082990014
+    imgnum: 14
+    reference: I1PD1082990014.jpg
     span:
       start: 7148
       end: 7829
   c7a30bec066646e9bef7f6fa1adad288:
-    page_index: 8a
-    page_info: null
-    reference: I1PD1082990015
+    imgnum: 15
+    reference: I1PD1082990015.jpg
     span:
       start: 7834
       end: 8496
   b322871fa4844b92a4c733a01b64afa5:
-    page_index: 8b
-    page_info: null
-    reference: I1PD1082990016
+    imgnum: 16
+    reference: I1PD1082990016.jpg
     span:
       start: 8501
       end: 9160
   cca0ce173bd3442c91d61872c95bd065:
-    page_index: 9a
-    page_info: null
-    reference: I1PD1082990017
+    imgnum: 17
+    reference: I1PD1082990017.jpg
     span:
       start: 9165
       end: 9832
   3a95bbdc120f41b08274fb5af0f02502:
-    page_index: 9b
-    page_info: null
-    reference: I1PD1082990018
+    imgnum: 18
+    reference: I1PD1082990018.jpg
     span:
       start: 9837
       end: 10499
   da5cfbea70e4436cb1c5dd389aea1fb9:
-    page_index: 10a
-    page_info: null
-    reference: I1PD1082990019
+    imgnum: 19
+    reference: I1PD1082990019.jpg
     span:
       start: 10504
       end: 11186
   05f83cfc4c2a4b03ba7aad4afbd0dac8:
-    page_index: 10b
-    page_info: null
-    reference: I1PD1082990020
+    imgnum: 20
+    reference: I1PD1082990020.jpg
     span:
       start: 11191
       end: 11977
   dad9f7963d574b368894bdbc3b2dd8a7:
-    page_index: 11a
-    page_info: null
-    reference: I1PD1082990021
+    imgnum: 21
+    reference: I1PD1082990021.jpg
     span:
       start: 11982
       end: 12752
   0df8168b31954310aaa790072943566e:
-    page_index: 11b
-    page_info: null
-    reference: I1PD1082990022
+    imgnum: 22
+    reference: I1PD1082990022.jpg
     span:
       start: 12757
       end: 13500
   e06f286017754d3594ad1f80f0228df7:
-    page_index: 12a
-    page_info: null
-    reference: I1PD1082990023
+    imgnum: 23
+    reference: I1PD1082990023.jpg
     span:
       start: 13505
       end: 14199
   3a23cfb3ae314aebaeb9ded6477c5eab:
-    page_index: 12b
-    page_info: null
-    reference: I1PD1082990024
+    imgnum: 24
+    reference: I1PD1082990024.jpg
     span:
       start: 14204
       end: 14921
   5a99342edd3e4b29a189997e06ed32ec:
-    page_index: 13a
-    page_info: null
-    reference: I1PD1082990025
+    imgnum: 25
+    reference: I1PD1082990025.jpg
     span:
       start: 14926
       end: 15587
   56f5a25e439d4ce5a3dc37c59b4a09b5:
-    page_index: 13b
-    page_info: null
-    reference: I1PD1082990026
+    imgnum: 26
+    reference: I1PD1082990026.jpg
     span:
       start: 15592
       end: 16295
   f7986dfd651b416e9a3483b2c0bfce60:
-    page_index: 14a
-    page_info: null
-    reference: I1PD1082990027
+    imgnum: 27
+    reference: I1PD1082990027.jpg
     span:
       start: 16300
       end: 17023
   03d2c5bf39b74e129a1f89f11f6585f8:
-    page_index: 14b
-    page_info: null
-    reference: I1PD1082990028
+    imgnum: 28
+    reference: I1PD1082990028.jpg
     span:
       start: 17028
       end: 17758
   92433c8a54e54047bfc8956e7d7010c6:
-    page_index: 15a
-    page_info: null
-    reference: I1PD1082990029
+    imgnum: 29
+    reference: I1PD1082990029.jpg
     span:
       start: 17763
       end: 18438
   bea75818c2e54e879b5799d264793eb5:
-    page_index: 15b
-    page_info: null
-    reference: I1PD1082990030
+    imgnum: 30
+    reference: I1PD1082990030.jpg
     span:
       start: 18443
       end: 19173
   5591b875805748939dd72ea57f187102:
-    page_index: 16a
-    page_info: null
-    reference: I1PD1082990031
+    imgnum: 31
+    reference: I1PD1082990031.jpg
     span:
       start: 19178
       end: 19929
   bd3061d56e004e058db4fd0cb02705cd:
-    page_index: 16b
-    page_info: null
-    reference: I1PD1082990032
+    imgnum: 32
+    reference: I1PD1082990032.jpg
     span:
       start: 19934
       end: 20645
